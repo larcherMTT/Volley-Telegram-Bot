@@ -1,0 +1,21 @@
+{
+  "name": "avataaars-server",
+  "version": "1.0.0",
+  "description": "This renders [Avataaars](https://github.com/fangpenlin/avataaars) in a way that can be embedded!",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": [
+    "Gregory Koberger",
+    "soulteary"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@bugfix/avataaars": "^2021.801.813",
+    "convert-svg-to-png": "^0.6.4",
+    "express": "^4.17.1",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
+  }
+}

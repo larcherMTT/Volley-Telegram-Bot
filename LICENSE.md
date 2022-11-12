@@ -1,5 +1,5 @@
 
-Copyright (c) 2022, matteo.lqarcher@unitn.it <matteo.lqarcher@unitn.it>
+Copyright (c) 2022, matteo.larcher@unitn.it <matteo.larcher@unitn.it>
 
 Permission to use, copy, modify, and/or distribute this software for any
 purpose with or without fee is hereby granted, provided that the above
